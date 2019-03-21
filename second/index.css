@@ -10,7 +10,6 @@
   height: 120px;
   width: 50px;
   background-color: purple;
-  display: inline-block;
   position: absolute;
   bottom: 5px;
   left: 5px;
@@ -21,7 +20,6 @@
   background-color: green;
   height: 95%;
   width: 40%;
-  display: inline-block;
   position: absolute;
   bottom: 5px;
   left: 10%;
